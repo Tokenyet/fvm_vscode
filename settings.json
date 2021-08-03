@@ -3,7 +3,7 @@
       "ENABLE_FLUTTER_DESKTOP": true,
     },
     "terminal.integrated.env.windows": {
-      "PATH": "D:\\Library\\flutter\\.pub-cache\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files\\Git\\bin\\git.exe;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\cmd;C:\\Windows\\System32;${workspaceFolder}\\.fvm\\flutter_sdk\\bin\\cache\\dart-sdk\\bin;${workspaceFolder}\\.fvm\\flutter_sdk\\bin;C:\\Windows\\System32\\wbem;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;",
+      "PATH": "D:\\Library\\flutter\\.pub-cache\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\cmd;${workspaceFolder}\\.fvm\\flutter_sdk\\bin\\cache\\dart-sdk\\bin;${workspaceFolder}\\.fvm\\flutter_sdk\\bin;",
       "PUB_CACHE": ".pub-cache"
       // "FLUTTER_ROOT": "${workspaceFolder}\\.fvm\\flutter_sdk"
     },
