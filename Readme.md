@@ -1,9 +1,10 @@
-## This project aimed at providing a isolated enviroment for flutter with fvm
+# fvm vscode
+> This project aimed at providing a isolated vscode enviroment for flutter with fvm.
 
-## Prerequisite
+### Prerequisite
 You should config fvm in the project first to follow the steps below.
 
-## How to use
+### How to use
 1. Change the path for
   1. git
   2. bash (powershell)
